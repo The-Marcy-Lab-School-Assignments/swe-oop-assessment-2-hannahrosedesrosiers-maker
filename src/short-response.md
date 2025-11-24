@@ -38,7 +38,7 @@ Encapsulation is the process of bundling and organizing data and specific method
  console.log(place.makePizza())
 place.#secretSauce
 // #secretSauce is private so it can't be accessed
-```
+````
 
 ---
 
