@@ -4,11 +4,11 @@ Write your responses directly in this file. Follow markdown formatting guideline
 
 As a quick guide, check the following before submitting:
 
-- [] Answered all parts of every question
-- [] No typos or grammar mistakes (use grammarly!)
-- [] Accurately uses relevant technical terminology
-- [] Uses markdown to enhance readability (preview in VS Code with Command/Control + Shift + V)
-- [] Responses are concise and easy to comprehend
+- [x] Answered all parts of every question
+- [x] No typos or grammar mistakes (use grammarly!)
+- [x] Accurately uses relevant technical terminology
+- [x] Uses markdown to enhance readability (preview in VS Code with Command/Control + Shift + V)
+- [x] Responses are concise and easy to comprehend
 
 ---
 
